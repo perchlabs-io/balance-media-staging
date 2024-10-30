@@ -27,7 +27,7 @@ Want to participate?   Feel free to join [Group Edits](https://matrix.to/#/#Pool
 ### New Pool Group Updates
 
 - New stake pools created since last update: 29
-- HELP group created consisting of 2 pools (HELP & PRAY)
+- HELP group created consisting of 2 pools ([HELP](https://pool.pm/e3ad58f8059878525e12a0e206cec0d0ebe730891482fc51458ab304) & [PRAY](https://pool.pm/ffdcba293f969ec7354b6445500893e142a9c990d96984e9f11677fe))
     - Pools share identical web site configuration and were created back-to-back based on DBSYNC pool ID value assignment
     - Is this a sign of some kind?  Not sure, but perhaps a little prayer for all us crypto folks might help out as we approach 2025
 - New CEX (COINEX) entering the pool group scene with 2 newly created pools
