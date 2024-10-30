@@ -30,9 +30,14 @@ Want to participate?   Feel free to join [Group Edits](https://matrix.to/#/#Pool
 - HELP group created consisting of 2 pools ([HELP](https://pool.pm/e3ad58f8059878525e12a0e206cec0d0ebe730891482fc51458ab304) & [PRAY](https://pool.pm/ffdcba293f969ec7354b6445500893e142a9c990d96984e9f11677fe))
     - Pools share identical web site configuration and were created back-to-back based on DBSYNC pool ID value assignment
     - Is this a sign of some kind?  Not sure, but perhaps a little prayer for all us crypto folks might help out as we approach 2025
+
+{% img src="help_pool_web_page.png" alt="help_webpage" %}
+
+{% img src="pray_pool_web_page.png" alt="pray_webpage" %}
+
 - New CEX ([COINEX](https://www.coinex.com/en/)) entering the pool group scene with 2 newly created pools
 
-
+{% img src="coinex_web_page.png" alt="coinex_webpage" %}
 
 ### Existing Pool Group Updates
 
@@ -42,6 +47,9 @@ Want to participate?   Feel free to join [Group Edits](https://matrix.to/#/#Pool
 - [Spire](https://www.spireblockchain.com/) stake pool as a service (SPaaS) provider now hosting DJED pool(s)
     - Pool ticker: [DJED1](https://pool.pm/6e56f943a7bf27868b7f35ea35e26a8b315cda058d2b577fa7d42e60)
     - Spire is the same SPaaS that host Spectrum Finance pools
+ 
+{% img src="spire_staking_services.png" alt="spire_staking_services" %}
+
 - Mega MPO ADALITE expanding by 2 pools:
     - Pool ticker: KILN7, KILN8
 
@@ -49,3 +57,7 @@ Want to participate?   Feel free to join [Group Edits](https://matrix.to/#/#Pool
 
 - Pool group updates has resulted in MAV being revised down from 30 to 28
     - Adjustment continues to remain aligned with historical MAV trend
+ 
+{% img src="balance_mav_october_2024.png" alt="balance_mav" %}
+
+{% img src="avg_result_decentralization_october_2024.png" alt="avg_resulting_decentralization" %}
