@@ -61,3 +61,10 @@ Want to participate?   Feel free to join [Group Edits](https://matrix.to/#/#Pool
 {% img src="balance_mav_october_2024.png" alt="balance_mav" %}
 
 {% img src="avg_result_decentralization_october_2024.png" alt="avg_resulting_decentralization" %}
+
+As always, please feel free to review the latest [pool group dataset](https://www.balanceanalytics.io/api/groupdata.json)
+
+Cheers,
+
+The BALANCE Team
+
