@@ -35,6 +35,7 @@ Want to participate?   Feel free to join [Group Edits](https://matrix.to/#/#Pool
 
 {% img src="pray_pool_web_page.png" alt="pray_webpage" %}
 
+
 - New CEX ([COINEX](https://www.coinex.com/en/)) entering the pool group scene with 2 newly created pools
 
 {% img src="coinex_web_page_header.png" alt="coinex_webpage" %}
