@@ -20,11 +20,11 @@ series: true
 
 Welcome to the BALANCE Pool Group Update, Here’s an outline of what has changed since last time.
 
-Special thanks to all those community members active in the BALANCE Group Edits Matrix room.  Your participation works to improve data accuracy and transparency.
+Also, special thanks to all those community members active in the BALANCE Group Edits Matrix room.  Your participation works to improve data accuracy and transparency.  Latest dataset available [here](https://www.balanceanalytics.io/api/groupdata.json) for review.
 
 Want to participate?   Feel free to join [Group Edits](https://matrix.to/#/#PoolGroupEdits:forum.balanceanalytics.io) matrix room.  All are welcome!
 
-### New Pool Group Updates
+### New Group Updates
 
 - New stake pools created since last update: 29
 - HELP group created consisting of 2 pools ([HELP](https://pool.pm/e3ad58f8059878525e12a0e206cec0d0ebe730891482fc51458ab304) & [PRAY](https://pool.pm/ffdcba293f969ec7354b6445500893e142a9c990d96984e9f11677fe))
@@ -39,7 +39,7 @@ Want to participate?   Feel free to join [Group Edits](https://matrix.to/#/#Pool
 
 {% img src="coinex_web_page.png" alt="coinex_webpage" %}
 
-### Existing Pool Group Updates
+### Existing Group Updates
 
 - Block Daemon (BD) group expanding by 1 pool
     - No ticker, but here is the BECH 32 pool ID for review: [pool13h08lf24fjmxxg0mmuattjv8dvy0r6fc4hrqg4qmj38xsweexrv](https://cardanoscan.io/pool/8dde7fa5554cb66321fbdf3ab5c9876b08f1e938adc604541b944e68)
@@ -62,7 +62,7 @@ Want to participate?   Feel free to join [Group Edits](https://matrix.to/#/#Pool
 
 {% img src="avg_result_decentralization_october_2024.png" alt="avg_resulting_decentralization" %}
 
-As always, please feel free to review the latest [pool group dataset](https://www.balanceanalytics.io/api/groupdata.json)
+That's it for now.  We hope you enjoyed this update.
 
 Cheers,
 
