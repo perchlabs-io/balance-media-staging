@@ -36,6 +36,7 @@ Want to participate?   Feel free to join [Group Edits](https://matrix.to/#/#Pool
 {% img src="pray_pool_web_page.png" alt="pray_webpage" %}
 
 - New CEX ([COINEX](https://www.coinex.com/en/)) entering the pool group scene with 2 newly created pools
+    - BECH 32 pool IDs for review: [pool13fpvzhz7p0f4c960k44erfykflr7qdp86t6jnxlfamhqcmfha42](https://cardanoscan.io/pool/8a42c15c5e0bd35c174fb56b91a4964fc7e03427d2f5299be9eeee0c) & [pool17dkgt30q7q53eavtrygh4p549wml9eq2339pfkuec6yf7x7h5rz](https://cardanoscan.io/pool/f36c85c5e0f0291cf58b19117a86952bb7f2e40a8c4a14db99c6889f)
 
 {% img src="coinex_web_page_header.png" alt="coinex_webpage" %}
 
